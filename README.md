@@ -1,2 +1,1 @@
-# PROC2
-x)
+# explotar-globos-3-plantilla
